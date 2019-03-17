@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "terms": "https://currencylayer.com/terms",
+    "privacy": "https://currencylayer.com/privacy",
+    "timestamp": 1551954785,
+    "source": "AED",
+    "quotes": {
+        "AEDAED": 1,
+        "AEDAFN": 20.559406,
+        "AEDALL": 30.014237,
+        "AEDAMD": 132.920473,
+        "AEDANG": 0.493596,
+        "AEDAOA": 85.651652,
+        "AEDARS": 11.088139,
+        "AEDAUD": 0.386551,
+        "AEDAWG": 0.490029,
+        "AEDAZN": 0.464169,
+    }
+}
